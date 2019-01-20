@@ -3,7 +3,8 @@
     "version": "0.0.1",
     "description": "Minimalist multiroom chat server",
     "dependencies": {
-        "socket.io": "0.9.6",
-        "mime": "1.4.1"
+        "formidable": "^1.2.1",
+        "mime": "1.4.1",
+        "socket.io": "0.9.6"
     }
 }
