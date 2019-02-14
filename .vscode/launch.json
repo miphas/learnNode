@@ -7,6 +7,13 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "Body Test",
+      "console": "integratedTerminal",
+      "program": "${workspaceFolder}/chapter7/static.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "启动程序",
       "program": "${workspaceFolder}/chapter4/4.5/https.js"
     }
