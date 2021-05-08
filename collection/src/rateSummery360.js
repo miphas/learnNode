@@ -47,7 +47,7 @@ requestAndSaveRateSummery360(
 
 // Aidpods
 requestAndSaveRateSummery360(
-    'aidpods',
+    'airpods',
     [100009691096,100004325476,100017128654],
     1620460676902,
 );
